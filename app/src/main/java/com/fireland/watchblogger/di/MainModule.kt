@@ -1,7 +1,7 @@
 package com.fireland.watchblogger.di
 
-import com.fireland.watchblogger.network.NewsApiService
-import com.fireland.watchblogger.network.NewsApiServiceImpl
+import com.fireland.watchblogger.repository.remote_provider.NewsApiService
+import com.fireland.watchblogger.repository.remote_provider.NewsApiServiceImpl
 import dagger.Binds
 import dagger.Module
 import dagger.hilt.InstallIn

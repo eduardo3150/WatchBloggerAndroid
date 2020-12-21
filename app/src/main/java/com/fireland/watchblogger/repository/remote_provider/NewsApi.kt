@@ -1,4 +1,4 @@
-package com.fireland.watchblogger.network
+package com.fireland.watchblogger.repository.remote_provider
 
 import com.fireland.watchblogger.models.WatchArticlesResponse
 import retrofit2.http.GET

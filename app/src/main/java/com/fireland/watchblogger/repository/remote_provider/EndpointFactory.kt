@@ -1,4 +1,4 @@
-package com.fireland.watchblogger.network
+package com.fireland.watchblogger.repository.remote_provider
 
 import okhttp3.Interceptor
 import okhttp3.OkHttpClient
